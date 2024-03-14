@@ -1,0 +1,90 @@
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\practi1.exe
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\practi1.deps.json
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\practi1.runtimeconfig.json
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\practi1.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\practi1.pdb
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\System.CommandLine.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.csproj.AssemblyReference.cache
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.AssemblyInfoInputs.cache
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.AssemblyInfo.cs
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.csproj.CoreCompileInputs.cache
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.csproj.CopyComplete
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\refint\practi1.dll
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.pdb
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\practi1.genruntimeconfig.cache
+C:\Users\12345\Videos\Documents\practi1\practi1\obj\Debug\net8.0\ref\practi1.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\practi1.exe
+G:\_\practi1\practi1\bin\Debug\net8.0\practi1.deps.json
+G:\_\practi1\practi1\bin\Debug\net8.0\practi1.runtimeconfig.json
+G:\_\practi1\practi1\bin\Debug\net8.0\practi1.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\practi1.pdb
+G:\_\practi1\practi1\bin\Debug\net8.0\System.CommandLine.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+G:\_\practi1\practi1\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.csproj.AssemblyReference.cache
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.GeneratedMSBuildEditorConfig.editorconfig
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.AssemblyInfoInputs.cache
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.AssemblyInfo.cs
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.csproj.CoreCompileInputs.cache
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.csproj.CopyComplete
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.dll
+G:\_\practi1\practi1\obj\Debug\net8.0\refint\practi1.dll
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.pdb
+G:\_\practi1\practi1\obj\Debug\net8.0\practi1.genruntimeconfig.cache
+G:\_\practi1\practi1\obj\Debug\net8.0\ref\practi1.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\practi1.exe
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\practi1.deps.json
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\practi1.runtimeconfig.json
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\practi1.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\practi1.pdb
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\System.CommandLine.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.csproj.AssemblyReference.cache
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.AssemblyInfoInputs.cache
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.AssemblyInfo.cs
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.csproj.CoreCompileInputs.cache
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.csproj.CopyComplete
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\refint\practi1.dll
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.pdb
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\practi1.genruntimeconfig.cache
+C:\Users\יהודית תכנות\Documents\practi1\practi1\obj\Debug\net8.0\ref\practi1.dll

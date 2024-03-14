@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZGMUevONRWvDd4zY0BkcIdLY+2GPmeYUNbLk1sCo9zYKlTClxYsTLKqRa19R3MFPE7Bkk9noLPbXHWCymmPCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12345\\Videos\\Documents\\practi1\\practi1\\practi1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12345\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
